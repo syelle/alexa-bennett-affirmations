@@ -1,0 +1,9 @@
+# Sublime IDE Files
+*.sublime-project
+*.sublime-workspace
+
+# packaging files for Amazon Lambda
+src/*.zip
+
+# configuration files
+src/Config.js
